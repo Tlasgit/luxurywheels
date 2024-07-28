@@ -45,7 +45,14 @@ You can install the required libraries using pip:
 
 ```bash
 pip install flask flask_sqlalchemy sqlalchemy flask_bcrypt Pillow pandas tkcalendar numpy babel openpyxl
-
+```
 ## Contact
+Email: tiagogitdev@gmail.com
+
+## Acknowledgements
+The theme used is the forest-dark, from the github user rdbend. Link below.
+https://github.com/rdbende
+https://github.com/rdbende/Forest-ttk-theme
+
 
 
