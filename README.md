@@ -7,6 +7,7 @@ This project was the final evaluation parameter of my professional Python course
 
 - [Overview](#overview)
 - [Features](#features)
+- [Version](#version)
 - [Prerequisites](#prerequisites)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -25,6 +26,10 @@ Luxury Wheels is a comprehensive management system for a vehicle rental company.
 - Cancel reservations.
 - Confirm the completion of reservations.
 - Many other features explained in the PDF file inside this repository.
+
+## Version
+
+Python version: 3.12.0
 
 ## Prerequisites
 
