@@ -9,6 +9,7 @@ This project was the final evaluation parameter of my professional Python course
 - [Features](#features)
 - [Version](#version)
 - [Prerequisites](#prerequisites)
+- [Executable](#executable)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -51,6 +52,10 @@ You can install the required libraries using pip:
 ```bash
 pip install flask flask_sqlalchemy sqlalchemy flask_bcrypt Pillow pandas tkcalendar numpy babel openpyxl
 ```
+##  Executable
+Link to download the executable file:
+https://drive.google.com/file/d/1-ykfdcUi0Xc4Hb1vUsCFk6ETOq_t4nF_/view?usp=drive_link
+
 ## Contact
 Email: tiagogitdev@gmail.com
 
