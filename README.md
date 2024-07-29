@@ -51,7 +51,7 @@ Email: tiagogitdev@gmail.com
 
 ## Acknowledgements
 The theme used is the forest-dark, from the github user rdbend. Link below.
-https://github.com/rdbende
+
 https://github.com/rdbende/Forest-ttk-theme
 
 
