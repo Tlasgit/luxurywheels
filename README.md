@@ -1,4 +1,4 @@
-# luxurywheels
+# Luxury Wheels
 Repository of my first Python project, made for a fictional vehicle rental company.
 
 This project was the final evaluation parameter of my professional Python course.
@@ -65,7 +65,7 @@ https://drive.google.com/file/d/1-ykfdcUi0Xc4Hb1vUsCFk6ETOq_t4nF_/view?usp=drive
 Email: tiagogitdev@gmail.com
 
 ## Acknowledgements
-The theme used is the forest-dark, from the github user rdbend. Link below.
+The theme used is the Forest-ttk-theme, from the github user rdbende. Link below.
 
 https://github.com/rdbende/Forest-ttk-theme
 
